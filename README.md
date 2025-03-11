@@ -49,7 +49,8 @@ It's basically "conjunction, pronoun, verb":
 | -RB | shall
 | -RBD | should 
 | -PBG(T) | think (that) |
-| -L | will |
-| -LD | would |
+| -FP(T) | try (to)
 | -P(T) | want (to) |
 | -RP | were |
+| -L | will |
+| -LD | would |
