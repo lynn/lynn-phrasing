@@ -14,7 +14,7 @@ It's basically "conjunction, pronoun, verb":
 ## Starts
 
 | Shape | Word | Shape | Pronoun
-| --- | --- | --- | --- |
+| ---: | --- | ---: | --- |
 | SKP | and | EU | I |
 | SKPW | but | AOE | we
 | SKHR | can | U | you
@@ -31,7 +31,7 @@ It's basically "conjunction, pronoun, verb":
 ## Ends
 
 | Shape | Word | Shape | Function |
-| --- | --- | --- | --- |
+| ---: | --- | ---: | --- |
 | -R | is, are | -D | past tense
 | -B | be | -Z | add _not_
 | -BG | can | \* | add _n't_
